@@ -26,7 +26,7 @@ SECRET_KEY = '5$m0qu)am^2__b%-=b0dxxse*2ch-)yk*ps1plsy!$n)8x)89='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nominalpress-annexlion-8000.codio-box.uk', 'localhost']
+ALLOWED_HOSTS = ['damp-lowlands-76266.herokuapp.com', 'localhost']
 
 
 # Application definition
